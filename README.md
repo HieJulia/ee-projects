@@ -7,16 +7,11 @@
 
 # Stack 
 + Java EE 
+    + Server sent event 
+    + CDI 
+    + JaxRS
+    + 
 + Application server : 
-    + Payara application server 
-    + Swarm 
-
-
-
-
-
-
-# Dan streaming - dung den no - no co doi cai non ay 
-
+    + Apache Tomcat 
 
 
