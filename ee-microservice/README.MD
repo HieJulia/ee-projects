@@ -18,8 +18,6 @@
 
 
 
-
-
 # Project 2 
 + Web service  
 + Stack : 
@@ -28,7 +26,12 @@
     + Test : Selenium2 web driver, Arquillian drone, Graphana
 
 
+# Project 3 
++  Project description : 
 
++ Stack 
+    + Java EE 
+    + Microservices architecture 
 
 
 
@@ -47,6 +50,15 @@
 
 # Run the project 
 + 
+
+
+
+
+
+---------
+
+
+
 
 
 
