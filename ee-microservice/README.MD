@@ -1,10 +1,5 @@
 # Project description 
-
-
-# Stack
-+ Payara micro server
-
-
+List of Java EE projects 
 
 
 # Project 1 
@@ -17,7 +12,6 @@
     + Kubernetes 
 
 
-
 # Project 2 
 + Web service  
 + Stack : 
@@ -25,15 +19,14 @@
     + Glassfish server 
     + Test : Selenium2 web driver, Arquillian drone, Graphana
 
-
 # Project 3 
-+  Project description : 
++  Project description : Chat application
 
 + Stack 
     + Java EE 
     + Microservices architecture 
-
-
+    + Database : MySQL 
+    + Test: Arquillian
 
 
 # Project 3 
@@ -44,19 +37,7 @@
 
 
 
-
-
-
-
 # Run the project 
-+ 
-
-
-
-
-
----------
-
 
 
 
