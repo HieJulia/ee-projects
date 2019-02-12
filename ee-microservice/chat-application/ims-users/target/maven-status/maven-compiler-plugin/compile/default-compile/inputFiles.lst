@@ -1,0 +1,7 @@
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-users/src/main/java/org/jee8ng/users/JAXRSActivator.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-users/src/main/java/org/jee8ng/users/boundary/CorsFilter.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-users/src/main/java/org/jee8ng/users/entity/Credential.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-users/src/main/java/org/jee8ng/users/boundary/SeedData.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-users/src/main/java/org/jee8ng/users/boundary/UsersService.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-users/src/main/java/org/jee8ng/users/boundary/UsersResource.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-users/src/main/java/org/jee8ng/users/entity/User.java

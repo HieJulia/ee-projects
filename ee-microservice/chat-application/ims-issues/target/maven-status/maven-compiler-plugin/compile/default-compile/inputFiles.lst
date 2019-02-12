@@ -1,0 +1,9 @@
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-issues/src/main/java/org/jee8ng/issues/boundary/IssuesResource.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-issues/src/main/java/org/jee8ng/issues/boundary/SeedData.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-issues/src/main/java/org/jee8ng/issues/entity/User.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-issues/src/main/java/org/jee8ng/issues/boundary/IssuesService.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-issues/src/main/java/org/jee8ng/issues/boundary/IssueUpdatesSSE.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-issues/src/main/java/org/jee8ng/issues/JAXRSActivator.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-issues/src/main/java/org/jee8ng/issues/entity/Issue.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-issues/src/main/java/org/jee8ng/issues/entity/IssueEvent.java
+/Users/hien/Desktop/Java-EE-8-and-Angular-master 2/Chapter07/putting-together-ims/ims-issues/src/main/java/org/jee8ng/issues/boundary/CorsFilter.java

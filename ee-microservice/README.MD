@@ -26,7 +26,7 @@ List of Java EE projects
     + Java EE 
     + Microservices architecture 
     + Database : MySQL 
-    + Test: Arquillian
+    + Integration test : 
 
 
 # Project 3 
@@ -38,7 +38,6 @@ List of Java EE projects
 
 
 # Run the project 
-
 
 
 
