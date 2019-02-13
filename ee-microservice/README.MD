@@ -37,29 +37,12 @@ List of Java EE projects
     + Docker, Docker compose 
     + AWS - AWS Beanstalk - AWS Code deploy 
     + Test : JUnit, Arquillian 
-    
-
-
-
-
-
 
 
 
 # Project 4 
 
 
-
-
-
-
 # Run the project 
-
-
-
-
-
--------- 
-
 
 
