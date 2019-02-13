@@ -1,0 +1,24 @@
+ version: '2'
+ services:
+
+
+# Database : DynamoDB 
+  dynamodb:
+   ports:
+    - "7777:7777"
+   expose:
+    - "7777"
+   command: -inMemory -sharedDb -port 7777
+   image: tray/dynamodb-local
+
+# Redis server 
+  redis:
+   ports:
+    - "6379:6379"
+   expose:
+    - "6379"
+   image: redis
+
+
+
+

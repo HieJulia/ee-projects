@@ -30,6 +30,20 @@ List of Java EE projects
 
 
 # Project 3 
++ Project description : Starter kit for Java EE - run on AWS -
++ Stack: 
+    + Java EE 
+    + Microservice 
+    + Docker, Docker compose 
+    + AWS - AWS Beanstalk - AWS Code deploy 
+    + Test : JUnit, Arquillian 
+    
+
+
+
+
+
+
 
 
 # Project 4 
@@ -37,7 +51,15 @@ List of Java EE projects
 
 
 
+
+
 # Run the project 
+
+
+
+
+
+-------- 
 
 
 
