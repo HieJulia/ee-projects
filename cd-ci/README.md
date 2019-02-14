@@ -23,3 +23,19 @@
 + Configure Jenkins 
 
 
+## Microservices 
++ Application server : Payara server 
++ Java EE 
+    + Maven war 
+    + Jax RS 
+    + JSON B
+    + EJB 
+    + CDI 
+    + Bean validation
+
+
+
+## Hoan thanh check Kubernetes 
+
+
+Du me tao request : Salary: 4000
