@@ -10,10 +10,16 @@
 + Jenkins 
 
 
+## Webhook - Poll schedule 
++ Trigger a Jenkins job - add Jenkins plugin Github pull request 
++ Configure a job schedule 
 
-
-
-
-
+## Jenkins file 
++ Jenkins job : 
+    + Build project using Maven 
+    + Execute unit tests 
+    + Deploy code 
+    + 
++ Configure Jenkins 
 
 
